@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1643955172 source:e:\drinkmachine revision\drinkmachine\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<string>
+
+1643955172 source:x:\drinkmachine revision\drinkmachine\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<string>
+
