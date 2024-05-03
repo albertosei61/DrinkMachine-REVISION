@@ -1,4 +1,5 @@
 Drink Machine
+
 Description
 This program simulates a drink machine where users can select and purchase drinks by inputting money. It allows users to view available drinks, their prices, and quantities, and handles transactions by dispensing drinks and returning change.
 
